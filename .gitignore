@@ -1,0 +1,14 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
