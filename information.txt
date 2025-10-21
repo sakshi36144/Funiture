@@ -1,0 +1,12 @@
+this is only branch file 
+git branch
+git branch  bug-fix
+git switch bug-fix 
+create a new file 
+git init 
+git add .file 
+git status 
+git commit
+git log 
+git log --oneline
+git switch main
